@@ -1,4 +1,4 @@
-# agetware_assignment_deeksha_gosain
+
 
 ## Getting Started
 
@@ -46,9 +46,6 @@
 
    
    
-**#For the Problems File** 
-
-Each problem provided is contained in its own separate JavaScript file, which includes dummy test values. You can execute each file to view the results directly in the terminal.
 
 
 
